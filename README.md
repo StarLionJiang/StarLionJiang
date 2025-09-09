@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Xingjian Jiang, originally from Ningbo, China, currently based in Boston, MA
 - 🌱 I’m studying Computer Engineering at Boston University (BS, 2020–2026)  
-- 📫 How to reach me: starlion@bu.edu | WeChat: 18069157996  
+- 📫 How to reach me: starlion@bu.edu | WeChat: +86 18069157996  |Phone +1 617-513-2612
 - 😄 Pronouns: He/Him  
 - 🌍 Languages: English (TOEFL 103), Mandarin, Japanese (JLPT N2)  
 
