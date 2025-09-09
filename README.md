@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him  
 - 🌍 Languages: English (TOEFL 103), Mandarin, Japanese (JLPT N2)  
 
-**Fall 2025 Coursework**: Operating Systems, Cloud Computing, Senior Design  
+**Fall 2025 Coursework**: Operating Systems, Intro to AI, Senior Design  
 **Past Coursework in ECE**: Computer Networking, Embedded Systems, Smart & Connected Systems, Applied Algorithms, Digital Logic Design, Circuits, Signals & Systems, Computer Organization, Programming in C/C++/Python, Verilog HDL  
 **Other Coursework**: Engineering Design, Discrete Math, Physics, Probability & Statistics, Multivariate Calculus  
 
